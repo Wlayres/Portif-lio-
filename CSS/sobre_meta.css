@@ -1,0 +1,83 @@
+/* Inicio div cabecalho*/
+div#cabecalho{
+    background-image: url(https://img.freepik.com/fotos-gratis/resumo-liso-vazio-cinza-studio-bem-usar-como-plano-de-fundo-relatorio-de-negocios-digital-modelo-de-site-pano-de-fundo_1258-55967.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1697328000&semt=ais);
+    }
+    /*Final div cabecalho*/
+    
+    
+    /*Inicio div menu */
+    
+    div#menu{
+    
+        background-image: url(https://img.freepik.com/fotos-gratis/resumo-liso-vazio-cinza-studio-bem-usar-como-plano-de-fundo-relatorio-de-negocios-digital-modelo-de-site-pano-de-fundo_1258-55967.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1697328000&semt=ais);
+        text-decoration: none;
+    }
+    
+    /*Final div menu*/
+
+    /*Inicio div rodape*/
+div#rodape{
+    background-image: url(https://img.freepik.com/fotos-gratis/resumo-liso-vazio-cinza-studio-bem-usar-como-plano-de-fundo-relatorio-de-negocios-digital-modelo-de-site-pano-de-fundo_1258-55967.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1697328000&semt=ais);
+}
+    /*Final div rodape*/
+    
+    
+    /*Incio Texto*/
+    
+    h1#titulo{
+        text-align: center;
+        font-family: sans-serif;
+    }
+    /*Final texto*/
+    
+    /*Inicio Button*/
+    
+    button{
+        border: solid 1px gray;
+        border-radius: 20px;
+        color: blue;
+        background-color: white;
+        transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;  
+    }
+    .botao:hover{
+        background-color: blue;
+        color: white;
+        transform: scale(1.2)
+    }
+    button#pp{
+    
+        border-radius:30px;
+    }
+    
+    button#cadastro{
+        border-radius:30px;
+    
+    
+    }
+    
+    button#sobre{
+    
+        border-radius:30px;
+    }
+    
+    button#fconosco{
+        border-radius:30px;
+       
+    }
+    /*Final Button*/
+
+    /*Inicio label*/
+label#pesquisa{
+    position: relative;
+    left: 720px;
+}
+/*Final label*/
+
+/*Inicio input*/
+input#cpesquisa{
+    position: relative;
+    left: 720px;
+    
+  
+}
+/*Final input*/

@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://img.freepik.com/fotos-gratis/resumo-liso-vazio-cinza-studio-bem-usar-como-plano-de-fundo-relatorio-de-negocios-digital-modelo-de-site-pano-de-fundo_1258-55967.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1697328000&semt=ais);
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+button{
+    border: solid 1px gray;
+    border-radius: 20px;
+    color: blue;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    
+}
+
+.botao:hover{
+    background-color: blue;
+    color: white;
+    transform: scale(1.2)
+}
+
+h6{
+    font-family: sans-serif;
+}
+
+/*Inicio label*/
+label#pesquisa{
+    position: relative;
+    left: 720px;
+}
+/*Final label*/
+
+/*Inicio input*/
+input#cpesquisa{
+    position: relative;
+    left: 720px;
+    
+  
+}
+/*Final input*/
